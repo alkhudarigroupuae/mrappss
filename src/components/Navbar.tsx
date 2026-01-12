@@ -30,7 +30,7 @@ export default function Navbar() {
                     className="object-contain"
                  />
             </div>
-            <span className="text-2xl font-bold text-white tracking-tighter">MR.APPSS</span>
+            <span className="text-2xl font-bold text-white tracking-tighter">Mr Apps</span>
         </Link>
 
         {/* Desktop Menu */}

@@ -44,3 +44,5 @@ next-env.d.ts
 *.py
 *.pyc
 __pycache__/
+
+.vercel

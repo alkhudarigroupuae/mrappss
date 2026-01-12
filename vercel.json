@@ -1,4 +1,5 @@
 {
+  "name": "mr-apps-next",
   "buildCommand": "next build",
   "outputDirectory": ".next",
   "framework": "nextjs",

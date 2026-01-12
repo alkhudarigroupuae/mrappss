@@ -18,7 +18,7 @@ export default function Footer() {
                         className="object-contain"
                     />
                 </div>
-                <h3 className="text-2xl font-bold text-white tracking-tighter">MR.APPSS</h3>
+                <h3 className="text-2xl font-bold text-white tracking-tighter">Mr Apps</h3>
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed">
               Empowering businesses with cutting-edge digital solutions. From mobile apps to AI integration, we build the future.
@@ -77,7 +77,7 @@ export default function Footer() {
 
         <div className="border-t border-white/10 pt-8 text-center">
           <p className="text-gray-500 text-sm">
-            © {new Date().getFullYear()} MR.APPSS. All rights reserved.
+            © {new Date().getFullYear()} Mr Apps. All rights reserved.
           </p>
         </div>
       </div>

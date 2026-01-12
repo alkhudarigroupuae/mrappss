@@ -25,7 +25,7 @@ export default function About() {
             transition={{ duration: 0.6 }}
           >
             <div className="inline-block px-4 py-1 mb-6 text-xs font-bold tracking-widest text-brand-light uppercase bg-brand/10 rounded-full">
-              About MR.APPS
+              About Mr Apps
             </div>
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-white leading-tight">
               We Don&apos;t Just Write Code, <br />
@@ -34,7 +34,7 @@ export default function About() {
               </span>
             </h2>
             <p className="text-gray-400 text-lg mb-8 leading-relaxed">
-              At MR.APPS, we are a team of passionate developers, designers, and strategists dedicated to transforming complex challenges into elegant digital solutions. From intuitive mobile apps to robust enterprise platforms, we build technology that drives growth.
+              At Mr Apps, we are a team of passionate developers, designers, and strategists dedicated to transforming complex challenges into elegant digital solutions. From intuitive mobile apps to robust enterprise platforms, we build technology that drives growth.
             </p>
 
             <div className="space-y-4 mb-10">
