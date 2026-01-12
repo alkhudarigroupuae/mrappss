@@ -66,7 +66,7 @@ export default function ContactPage() {
                                 </div>
                                 <div>
                                     <p className="text-sm text-gray-400">Call Us</p>
-                                    <p className="text-lg font-semibold">+963 949 893 293</p>
+                                    <p className="text-lg font-semibold">+971 52 692 3031</p>
                                 </div>
                             </div>
 
