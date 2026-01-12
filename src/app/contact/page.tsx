@@ -77,6 +77,7 @@ export default function ContactPage() {
                                 <div>
                                     <p className="text-sm text-gray-400">Visit Us</p>
                                     <p className="text-lg font-semibold">Damascus - Syria</p>
+                                    <p className="text-lg font-semibold">Dubai - UAE</p>
                                 </div>
                             </div>
                         </div>

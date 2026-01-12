@@ -52,6 +52,10 @@ export default function Footer() {
                 <MapPin className="w-5 h-5 text-brand-light shrink-0" />
                 <span>Damascus - Syria</span>
               </li>
+              <li className="flex items-start gap-3 text-gray-400 text-sm">
+                <MapPin className="w-5 h-5 text-brand-light shrink-0" />
+                <span>Dubai - UAE</span>
+              </li>
             </ul>
           </div>
 
