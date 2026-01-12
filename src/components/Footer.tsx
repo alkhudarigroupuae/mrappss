@@ -50,7 +50,7 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-3 text-gray-400 text-sm">
                 <MapPin className="w-5 h-5 text-brand-light shrink-0" />
-                <span>Tech District, Innovation City</span>
+                <span>Damascus - Syria</span>
               </li>
             </ul>
           </div>
