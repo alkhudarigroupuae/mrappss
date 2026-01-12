@@ -56,7 +56,7 @@ export default function ContactPage() {
                                 </div>
                                 <div>
                                     <p className="text-sm text-gray-400">Email Us</p>
-                                    <p className="text-lg font-semibold">contact@mr-appss.com</p>
+                                    <p className="text-lg font-semibold">Contact@mr-appss.com</p>
                                 </div>
                             </div>
 
