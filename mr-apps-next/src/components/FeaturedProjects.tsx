@@ -48,7 +48,7 @@ export default function FeaturedProjects() {
               Selected <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-light to-cyan-300">Works</span>
             </h2>
             <p className="text-gray-400 text-lg font-light">
-              A glimpse into the digital solutions we've crafted for our partners.
+              A glimpse into the digital solutions we&apos;ve crafted for our partners.
             </p>
           </div>
           

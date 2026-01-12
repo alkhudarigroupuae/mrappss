@@ -2,7 +2,6 @@
 
 import { motion } from "framer-motion";
 import { CheckCircle2, Users, Trophy, Rocket } from "lucide-react";
-import Image from "next/image";
 
 const stats = [
   { label: "Years Experience", value: "5+", icon: Rocket },
@@ -29,7 +28,7 @@ export default function About() {
               About MR.APPS
             </div>
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-white leading-tight">
-              We Don't Just Write Code, <br />
+              We Don&apos;t Just Write Code, <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-light to-cyan-300">
                 We Engineer Success.
               </span>

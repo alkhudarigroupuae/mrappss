@@ -131,7 +131,7 @@ export default function ProjectsPage() {
                         src={project.image} 
                         alt={project.title}
                         fill
-                        className={`${// @ts-ignore
+                        className={`${// @ts-expect-error ImageFit property is dynamic
                         project.imageFit === 'contain' ? 'object-contain p-8' : 'object-cover'} group-hover:scale-110 transition-transform duration-500`}
                     />
                  ) : (

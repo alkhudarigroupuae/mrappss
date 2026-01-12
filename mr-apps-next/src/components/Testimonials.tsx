@@ -2,7 +2,6 @@
 
 import { motion } from "framer-motion";
 import { Quote } from "lucide-react";
-import Image from "next/image";
 
 const testimonials = [
   {
@@ -34,7 +33,7 @@ export default function Testimonials() {
             Trusted by <span className="text-brand-light">Innovators</span>
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto">
-            Don't just take our word for it. Here's what our partners have to say about working with us.
+            Don&apos;t just take our word for it. Here&apos;s what our partners have to say about working with us.
           </p>
         </div>
 
@@ -51,7 +50,7 @@ export default function Testimonials() {
               <Quote className="w-10 h-10 text-brand-light/20 absolute top-8 right-8" />
               
               <p className="text-gray-300 mb-8 leading-relaxed relative z-10">
-                "{testimonial.content}"
+                &quot;{testimonial.content}&quot;
               </p>
               
               <div className="flex items-center gap-4">

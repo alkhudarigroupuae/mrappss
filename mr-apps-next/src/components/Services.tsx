@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Code, Palette, Megaphone, Smartphone, Monitor, Cpu, Server, Shield } from "lucide-react";
+import { Palette, Smartphone, Monitor, Cpu, Server, Shield } from "lucide-react";
 
 const services = [
   {
@@ -60,7 +60,7 @@ export default function Services() {
             Engineering <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-light to-cyan-300">Digital Excellence</span>
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto text-lg font-light">
-            We don't just write code. We architect platforms that scale, perform, and dominate your market.
+            We don&apos;t just write code. We architect platforms that scale, perform, and dominate your market.
           </p>
         </div>
 

@@ -31,10 +31,10 @@ export default function ContactPage() {
                 animate={{ opacity: 1, y: 0 }}
                 className="text-5xl md:text-6xl font-bold mb-6"
             >
-                Let's Build <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-light to-cyan-300">Something Great</span>
+                Let&apos;s Build <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-light to-cyan-300">Something Great</span>
             </motion.h1>
             <p className="text-gray-400 text-xl">
-                Have a project in mind? We'd love to hear from you.
+                Have a project in mind? We&apos;d love to hear from you.
             </p>
             </div>
 
@@ -96,7 +96,7 @@ export default function ContactPage() {
                                     <Send size={32} />
                                 </div>
                                 <h3 className="text-2xl font-bold mb-2">Message Sent!</h3>
-                                <p className="text-gray-400">We'll get back to you shortly.</p>
+                                <p className="text-gray-400">We&apos;ll get back to you shortly.</p>
                                 <button 
                                     onClick={() => setSubmitted(false)}
                                     className="mt-6 text-brand-light hover:underline"
